@@ -8,11 +8,11 @@ Github:taransingh27
 
 Anushka Saraswat B.Tech 3rd year GLA University
 
-Github:
+Github:Anushka2812
 
 Naman Shukla B.Tech 3rd year GLA University
 
-Github:
+Github:Naman22
 
 Rahul Sharma B.Tech 3rd year GLA University 
 
