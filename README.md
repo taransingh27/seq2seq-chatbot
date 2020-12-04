@@ -24,7 +24,7 @@ Additional File requirement:
 
 #2. A trained model You can download it from [here](https://drive.google.com/uc?id=1y1b1vXeSti5lpBACNdYlo8HbVJDUO3ir&export=download).
 
-After downlaoding the model unzip it and put it in two locations:
+After downloading the model unzip it and put it in two locations:
 
 #1. seq2seq-chatbot/datasets/cornell_movie_dialog/trained_model_v2
 
