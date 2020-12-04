@@ -12,7 +12,7 @@ Github:Anushka2812
 
 Naman Shukla B.Tech 3rd year GLA University
 
-Github:Naman22
+Github:naman22
 
 Rahul Sharma B.Tech 3rd year GLA University 
 
