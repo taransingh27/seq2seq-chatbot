@@ -28,4 +28,4 @@ After downloading the model unzip it and put it in two locations:
 
 #1. seq2seq-chatbot/datasets/cornell_movie_dialog/trained_model_v2
 
-#2. seq2seq-chatbot/models/tarined_model_v2
+#2. seq2seq-chatbot/models/cornell_movie_dialog/tarined_model_v2
